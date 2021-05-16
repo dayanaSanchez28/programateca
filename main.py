@@ -1,5 +1,5 @@
-name = input("Ingrese su nombre ")
-edad = input("Ingrese su edad ")
-carrera = input("Ingrese su carrera ")
-
-print("Hola Mundo! mi nombre es " + name + " y tengo " + edad + " años, estudio " + carrera + " en la UNIMET")
+name = "Dayana"
+age = 21
+career = "Ing sistemas"
+print(f"Hola Mundo! mi nombre es {name} y tengo {age}
+años, estudio {career} en la UNIMET!")
